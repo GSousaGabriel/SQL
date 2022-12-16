@@ -1,0 +1,1 @@
+INSERT INTO conversations (user_name, employer, message) VALUES ('ggs', 'Gabriel', 'vai se fude, foda-se');

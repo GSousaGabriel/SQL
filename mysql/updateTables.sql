@@ -1,0 +1,2 @@
+ALTER TABLE conversations 
+MODIFY COLUMN employer VARCHAR(200) NOT NULL;
