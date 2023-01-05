@@ -9,7 +9,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "mySQL",
-            "database": "gym",
+            "database": "indexes",
             "username": "root",
             "password": "123juca49"
         },
@@ -19,7 +19,7 @@
             "port": 5432,
             "driver": "PostgreSQL",
             "name": "postgre",
-            "database": "gym",
+            "database": "indexes",
             "username": "root",
             "password": "123juca49"
         }
