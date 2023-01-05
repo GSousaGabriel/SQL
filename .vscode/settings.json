@@ -1,16 +1,6 @@
 {
     "sqltools.connections": [
         {
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "driver": "PostgreSQL",
-            "name": "postgre",
-            "database": "db_users",
-            "username": "root",
-            "password": "123juca49"
-        },
-        {
             "mysqlOptions": {
                 "authProtocol": "default"
             },
@@ -19,7 +9,17 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "mySQL",
-            "database": "restaurants",
+            "database": "gym",
+            "username": "root",
+            "password": "123juca49"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "postgre",
+            "database": "gym",
             "username": "root",
             "password": "123juca49"
         }

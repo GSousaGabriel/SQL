@@ -1,0 +1,4 @@
+-- CREATE VIEW big_sales AS SELECT * FROM sales 
+-- WHERE total>300; NEEDS TO BE CREATED ONCE, THEN YOU CAN COMMENT THE CODE
+
+SELECT customer, product FROM big_sales;

@@ -1,0 +1,1 @@
+ALTER TABLE sales ADD COLUMN total NUMERIC(20,2) GENERATED ALWAYS AS (price*quantity);
